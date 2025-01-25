@@ -1,6 +1,6 @@
 # Asignaturas
 
-A continuación, se presentan las asignaturas disponibles:
+Asignaturas de 2do ASIR:
 
 - **Seguridad**
 - **Implantación Web**
